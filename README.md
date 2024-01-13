@@ -1,3 +1,3 @@
 # Demo
 This is my First Git Repo
-Author - Shradha Khapra
+Author - Ash Nicolus
